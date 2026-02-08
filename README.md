@@ -3,7 +3,7 @@ Java class 2025
  ### welcome to the java class 2025 here we build game changer projects
  This is a centralize platform where by we will be submitting our works and share java skills 
  ### You want to contribute ?
- [Read the Wiki ](https://github.com/bos-com/Java-class-2025/wiki) for contribution guide .
+ [Read the Wiki ](https://github.com/bos-com/Java-class-2025/wiki) for contribution guide
  
 ## 🧠 Learning Goals
 - Understand core Java syntax and OOP principles.
